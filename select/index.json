@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "メロウ",
+  "base_artist": "Keina Suda",
+  "createdAt": "2025-12-02T11:01:10.288245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_メロウ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "GEMS COMPANY",
+      "has_synced": false,
+      "path": "select/02_メロウ_GEMS_COMPANY.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/03_メロウ_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/04_メロウ_須田景凪.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/05_メロウ_chouchou_merged_syrups..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/06_メロウ_Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/07_メロウ_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/08_メロウ_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/09_メロウ_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メロウ - MEROU",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/10_メロウ_-_MEROU_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メロウ - Mellow",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/11_メロウ_-_Mellow_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "須田景凪 - メロウ(Music Video)",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/12_須田景凪_-_メロウ(Music_Video)_Keina_Suda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メロウ",
+      "artist": "Ringo Shiina",
+      "has_synced": true,
+      "path": "select/13_メロウ_Ringo_Shiina.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メロウ",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_メロウ_須田景凪.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "メロウ",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_02_メロウ_須田景凪.txt"
+    }
+  ]
+}
